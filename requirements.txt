@@ -1,0 +1,6 @@
+colorzero==2.0
+gpiozero==1.6.2
+paho-mqtt==1.6.1
+pixel-ring==0.1.0
+pyusb==1.2.1
+spidev==3.5
